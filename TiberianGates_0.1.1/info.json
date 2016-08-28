@@ -1,0 +1,10 @@
+{
+  "name": "TiberianGates",
+  "title": "Tiberian Gates",
+  "version": "0.1.1",
+  "factorio_version": "0.13",
+  "author": "Autokeks",
+  "homepage": "https://github.com/cooox/factorio-tiberian-gates",
+  "description": "Adds gate up and down sounds from Command and Conquer Tiberian Sun into the game.",
+  "dependencies": ["base"]
+}
